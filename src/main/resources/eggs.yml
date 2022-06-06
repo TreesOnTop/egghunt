@@ -1,0 +1,48 @@
+eggs:
+  world:
+    1:
+      x: 108621
+      y: 78
+      z: 194293
+      block: "ORANGE_CONCRETE"
+    2:
+      x: 108556
+      y: 108
+      z: 194272
+      block: "LIME_CONCRETE"
+    3:
+      x: 108588
+      y: 76
+      z: 194299
+      block: "LIGHT_BLUE_CONCRETE"
+  world_nether:
+    1:
+      x: 13560
+      y: 104
+      z: 24271
+      block: "RED_CONCRETE"
+    2:
+      x: 13577
+      y: 96
+      z: 24311
+      block: "LIGHT_BLUE_CONCRETE"
+    3:
+      x: 13598
+      y: 104
+      z: 24272
+      block: "PINK_CONCRETE"
+  world_the_end:
+    1:
+      x: 60
+      y: 53
+      z: 88
+      block: "RED_CONCRETE"
+    2:
+      x: -90
+      y: 37
+      z: -41
+      block: "LIGHT_BLUE_CONCRETE"
+    3:
+      x: 149
+      y: 57
+      z: 22

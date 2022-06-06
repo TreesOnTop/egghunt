@@ -1,0 +1,4 @@
+name: Egghunt
+version: '${project.version}'
+main: com.github.treesontop.egghunt.Egghunt
+api-version: 1.18
